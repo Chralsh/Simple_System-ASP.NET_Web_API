@@ -2,7 +2,7 @@
 *.dll
 *.obj
 *.bin
-
+*.user
 # Ignore Visual Studio files
 .vs/
 **/obj/
